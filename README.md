@@ -6,21 +6,14 @@
 - 😄 Pronome: Ele/Dele
 <br><br><br>
 
-<div style="display: inline-block"><br>
-<picture>
-    <source>
-        <img src="https://github-readme-stats.vercel.app/api?username=Martins-Guilherme&show_icons=true&theme=dark"/>
-        media="(prefers-color-scheme: dark)"
-    </source>
-</picture>
-
-<picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-Guilherme&langs_count=8&layout=compact&theme=dark"/>
-</picture>
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Martins-Guilherme&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-Guilherme&langs_count=8&layout=compact&theme=tokyonight"/>
+</div
 
 </div>
 
-<br><br><br>
+<br><br>
 
 <div>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,6 +23,4 @@
     
   <div>
     <a href="https://www.linkedin.com/in/guilherme-martins6991/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
   </div>
