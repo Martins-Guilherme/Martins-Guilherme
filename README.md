@@ -1,11 +1,11 @@
 <h1>Olá! Eu sou Guilherme Martins 🛹 ☕</h1>
 
 
-- 🔭 Hoje eu me dedico na área de Front-end 
-- 🌱 Estou estudando HTML, CSS & JavaScript
-- 😄 Pronome: Ele/Dele
+- 🔭 Hoje eu me dedico na área de Front-end.
+- 🌱 Estou estudando HTML, CSS & JavaScript.
+- 😄 Pronome: Ele/Dele.
 
-- 🖥️ Estudante de Análise e desenvolvimento de sistemas no 3° périodo  <br>
+- 🖥️ Estudante de Análise e desenvolvimento de sistemas, 3° périodo.  <br>
 <br>
 Sempre procurando novos desafios me aprofundando no mundo TI e buscando novos conhecimentos. 
 
