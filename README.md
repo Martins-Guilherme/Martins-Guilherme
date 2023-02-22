@@ -18,7 +18,11 @@ Sempre procurando novos desafios me aprofundando no mundo TI e buscando novos co
 </div
 
 </div>
-
+    <br>
+    <div>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    </div>
+ 	
 <br><br>
 
 <div>
