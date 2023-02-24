@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou Guilherme Martins 🛹 ☕</h1>
+<h1>Olá! Eu sou Guilherme Martins 🛹 ☕ <img src="https://img.shields.io/badge/Front--end-Jr-brightgreen"/></h1>
 
 
 - 🔭 Hoje eu me dedico na área de Front-end.
@@ -25,8 +25,10 @@ Sempre procurando novos desafios me aprofundando no mundo TI e buscando novos co
     </div>
  	
 <br><br>
-    
-##
+
+#
+
+
 
 <div>
     <br>
@@ -39,5 +41,6 @@ Sempre procurando novos desafios me aprofundando no mundo TI e buscando novos co
 
   <div>
     <br>
-    <a href="https://www.linkedin.com/in/guilherme-martins6991/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+    <a href="https://www.linkedin.com/in/guilherme-martins6991/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
+    </div>
+
