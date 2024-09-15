@@ -1,7 +1,7 @@
 <h1>Olá! Me chamo Guilherme Martins 🛹 ☕ <img src="https://img.shields.io/badge/Front--end-Jr-brightgreen"/></h1>
 
 
-- 🔭 Hoje eu me dedico na área de Front-end.
+- 🔭 Entusiasta Front-end.
 - 🌱 Estou estudando HTML, CSS & JavaScript.
 - 😄 Pronome: Ele/Dele.
 
