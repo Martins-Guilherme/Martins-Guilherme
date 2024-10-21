@@ -2,8 +2,7 @@
 
 
 - 🔭 Entusiasta Front-end.
-- 🌱 Estou estudando HTML, CSS & JavaScript.
-- 😄 Pronome: Ele/Dele.
+- 🌱 Estou estudando HTML, CSS, JavaScript, React-Native;
 
 - 🖥️ Estudante de Análise e desenvolvimento de sistemas, 3° périodo.  <br>
 <br>
@@ -35,6 +34,7 @@ Sempre procurando novos desafios me aprofundando no mundo TI e buscando novos co
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Gui-React"  src="https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=currentColor">
   </div><br><br>
     
 ##
