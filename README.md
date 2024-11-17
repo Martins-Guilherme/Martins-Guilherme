@@ -1,19 +1,39 @@
-<h1>Olá! Me chamo Guilherme Martins 🛹 ☕ <img src="https://img.shields.io/badge/Front--end-Jr-brightgreen"/></h1>
+<h1>👋 &nbsp;Olá, eu sou o Guilherme, um desenvolvedor full stack apaixonado pelo que faz! 🛹  ☕ </h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/guilherme-martins6991/"><img src="https://img.shields.io/badge/-Guilherme%20Teixeira%20Martins-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:guilhermeteixeira3113@gmail.com"><img src="https://img.shields.io/badge/-guilhermeteixeira3112@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+
+- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 15 anos de idade, quando queria criar um servidor privado do jogo que eu amava na época, que se chamava Minecraft. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
+- 👨🏻‍💻 &nbsp; Desenvolvedor Front-end full-stack JS apaixonado por criar experiências digitais excepcionais, pé no código e a cabeça nas nuvens.
 
 
-- 🔭 Entusiasta Front-end.
-- 🌱 Estou estudando HTML, CSS, JavaScript, React-Native;
+<h2> 🛠 &nbsp;Tech Stack</h2>
 
-- 🖥️ Estudante de Análise e desenvolvimento de sistemas, 3° périodo.  <br>
-<br>
-Sempre procurando novos desafios me aprofundando no mundo TI e buscando novos conhecimentos. 
+<h3>💻 &nbsp;Front-end:</h3>
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
+
+<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 <br><br>
 
+
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+
 <div>
-    <img height="185em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Martins-Guilherme&show_icons=true&theme=tokyonight"/>
-    <img height="185em"  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-Guilherme&langs_count=8&layout=compact&theme=tokyonight"/>
+    ![Guilherme Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martins-Guilherme&show_icons=true&theme=tokyonight)
 </div
 
 ##
@@ -24,23 +44,3 @@ Sempre procurando novos desafios me aprofundando no mundo TI e buscando novos co
     </div>
  	
 <br><br>
-
-#
-
-
-
-<div>
-    <br>
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Gui-React"  src="https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=currentColor">
-  </div><br><br>
-    
-##
-
-  <div>
-    <br>
-    <a href="https://www.linkedin.com/in/guilherme-martins6991/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
-    </div>
-
