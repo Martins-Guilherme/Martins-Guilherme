@@ -7,7 +7,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 15 anos de idade, quando queria criar um servidor privado do jogo que eu amava na época, que se chamava Minecraft. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
+- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 15 anos de idade, quando queria jogar em um servidor com meus colegas, só que queriamos as nossas regras,o jogo se chamava Minecraft. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
 - 👨🏻‍💻 &nbsp; Desenvolvedor Front-end full-stack JS apaixonado por criar experiências digitais excepcionais, pé no código e a cabeça nas nuvens.
 
 
