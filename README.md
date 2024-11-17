@@ -28,9 +28,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-<br><br>
-
-
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
     
 ![Guilherme Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martins-Guilherme&show_icons=true&theme=tokyonight)
