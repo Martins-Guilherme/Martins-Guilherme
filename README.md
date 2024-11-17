@@ -32,10 +32,8 @@
 
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
-
-<div>
-    ![Guilherme Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martins-Guilherme&show_icons=true&theme=tokyonight)
-</div
+    
+![Guilherme Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martins-Guilherme&show_icons=true&theme=tokyonight)
 
 ##
 </div>
