@@ -25,7 +25,7 @@
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![mongodb](https://img.shields.io/badge/-mongodb-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
