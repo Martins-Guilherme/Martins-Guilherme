@@ -52,7 +52,7 @@
 ## 📚 Formação
 
 -   **Full Stack Club:** Colegial em Tecnologia da Informação (Inicio: novembro de 2024)
--   **Estácio:** Análise e Desenvolvimento de Sistemas (Previsão: junho de 2026)
+-   **Estácio:** Análise e Desenvolvimento de Sistemas (Previsão: julho de 2027)
 
 ## 🏅 Certificações
 
